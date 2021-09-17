@@ -1,4 +1,6 @@
-This is a for of the https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware.git
+This is a fork of the https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware.git
+
+Installed HW: BIGTREETECH SKR MINI E3 V2.0 + TFT35-E3 V3.0 Touch Screen 
 
 ## Cloning
 
